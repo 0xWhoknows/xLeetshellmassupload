@@ -45,8 +45,8 @@
 1. **Prepare Your Shells File**:
    Create a `.txt` file (e.g., `shells.txt`) with one shell URL per line. Example:
    ```
-   http://example.com/xl/index.php
-   http://anothersite.com/xl/index.php
+   http://example.com/xleet.php
+   http://anothersite.com/xleet.php
    ```
 
 2. **Run the Application**:
